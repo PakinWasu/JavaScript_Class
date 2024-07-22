@@ -1,5 +1,5 @@
 let val1 =['Apple',1,false]
-let val2 = ['Fries',2,true]
+let val2 = ['Fries',2,'Mars']
 let val3 = ['Mars',true,'Apple'];
 let arr = val1.concat(val2,val3);
 let inde =[]
